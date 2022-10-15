@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Zheng Guo</title>
+    <link>https://aaronguo1996.github.io/project/</link>
+      <atom:link href="https://aaronguo1996.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 May 2022 15:54:39 -0700</lastBuildDate>
+    <image>
+      <url>https://aaronguo1996.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>https://aaronguo1996.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>APIphany</title>
+      <link>https://aaronguo1996.github.io/project/apiphany/</link>
+      <pubDate>Tue, 24 May 2022 15:54:39 -0700</pubDate>
+      <guid>https://aaronguo1996.github.io/project/apiphany/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hoogle&#43;</title>
+      <link>https://aaronguo1996.github.io/project/hoogleplus/</link>
+      <pubDate>Mon, 27 Jan 2020 17:51:28 -0800</pubDate>
+      <guid>https://aaronguo1996.github.io/project/hoogleplus/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
